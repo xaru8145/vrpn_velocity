@@ -1,0 +1,8 @@
+To Do List:
+- Finish rotation to vehicle 1 frame.
+- Add full transformation to body frame.
+- Test / improve filtering constant choice
+
+
+
+
